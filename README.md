@@ -1,17 +1,16 @@
 # TATA-Dashboard
-# 📊 Tata Consumer Products — Complaint Analysis Dashboard
+# Tata Consumer Products — Complaint Analysis Dashboard
 
 A comprehensive, multi-page interactive Power BI dashboard built to analyze **1,001 consumer complaints** logged against Tata Consumer Products — covering complaint trends, brand-level performance, root cause analysis, resolution tracking, and geographic distribution across India.
 
 ---
 
-## 📋 Short Description
+## Short Description
 
 The Tata Consumer Products Complaint Analysis Dashboard is a data-driven Power BI report designed to help quality assurance teams, operations managers, and business analysts monitor and resolve consumer complaints efficiently. Built on **1,001 rows of complaint data**, the dashboard spans **4 analytical pages** — from high-level KPIs and monthly trends to deep-dive RCA tracking and plant-level supply chain bottlenecks. It is intended for internal stakeholders who need actionable visibility into complaint volumes, severity patterns, brand accountability, and resolution performance across India's food and consumer goods segments.
 
 ---
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -21,16 +20,16 @@ The dashboard was built using the following tools and technologies:
 - 🧠 **DAX (Data Analysis Expressions)** 
 ---
 
-## 📂 Data Source
+## Data Source
 
 **Source:** Internal Tata Consumer Products Complaint Management System *(Confidential — dataset not shared publicly)*
 
 The dataset contains **1,001 complaint records** covering:
 ---
 
-## ✨ Features / Highlights
+## Features / Highlights
 
-### 🔴 Business Problem
+### Business Problem
 
 Tata Consumer Products handles thousands of consumer complaints annually across diverse product lines, geographies, and manufacturing partners. Without a centralized view, it is difficult to:
 
@@ -42,7 +41,7 @@ Tata Consumer Products handles thousands of consumer complaints annually across 
 
 ---
 
-### 🎯 Goal of the Dashboard
+### Goal of the Dashboard
 
 To deliver a 4-page interactive analytics tool that:
 - Gives leadership an instant snapshot of complaint health via KPIs
@@ -52,11 +51,11 @@ To deliver a 4-page interactive analytics tool that:
 
 ---
 
-### 🗂️ Walkthrough of Key Visuals
+###  Walkthrough of Key Visuals
 
 ---
 
-#### 📄 Page 1 — Complaint Overview
+####  Page 1 — Complaint Overview
 
 **Slicers:** Case Severity | Business Line | Year
 
@@ -84,7 +83,7 @@ To deliver a 4-page interactive analytics tool that:
 
 ---
 
-#### 📄 Page 2 — Product & Brand Analysis
+####  Page 2 — Product & Brand Analysis
 
 **Slicers:** Brand/Customer Brand | Business Category | Case Severity
 
@@ -111,7 +110,7 @@ To deliver a 4-page interactive analytics tool that:
 
 ---
 
-#### 📄 Page 3 — RCA & Resolution Analysis
+#### Page 3 — RCA & Resolution Analysis
 
 **Key KPIs:**
 | Metric | Value |
@@ -142,7 +141,7 @@ To deliver a 4-page interactive analytics tool that:
 
 ---
 
-#### 📄 Page 4 — Geographic & Supply Chain Intelligence
+#### Page 4 — Geographic & Supply Chain Intelligence
 
 **Key KPIs:** 1K Total Complaints | 375 FM Complaints | 34K Units Affected
 
@@ -165,7 +164,7 @@ To deliver a 4-page interactive analytics tool that:
   - GV - GVR Nutries: 50% Adverse Reaction
 ---
 
-## 📸 Dashboard Snapshots
+## Dashboard Snapshots
 
 ### Page 1 — Complaint Overview
 ![Complaint Overview](TATA-dashboard-1.png)
